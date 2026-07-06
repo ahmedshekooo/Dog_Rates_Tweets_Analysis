@@ -1,3 +1,4 @@
+<!-- <i class="fa-brands fa-twitter"></i> -->
 # 🐶 Twitter Data Wrangling & Analysis: WeRateDogs
 
 This project focuses on wrangling, cleaning, analyzing, and visualizing Twitter data from the [WeRateDogs™](https://twitter.com/dog_rates) account. It follows the data wrangling process taught in the [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
